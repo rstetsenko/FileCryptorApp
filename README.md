@@ -9,6 +9,6 @@ Second parameter: your password;
 Third parameter: path to file.
 
 Example: 
->\>java -jar JNCryptorApp.jar -e MyPassword path/to/file/example.txt
+>\>java -jar FileCryptorApp.jar -e MyPassword path/to/file/example.txt
 
 Encrypted or decrypted file will be created at the same directory as the source file.
